@@ -5,4 +5,5 @@ The program takes in 1 argument (hostname or IP address). It will incur an infin
 
 How to Run:
 g++ ping.cpp -o ping
+
 sudo ./ping [arg1]
